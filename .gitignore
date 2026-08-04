@@ -1,0 +1,10 @@
+build/
+.cache/
+.vscode/
+.idea/
+*.geode
+*.dll
+*.dylib
+*.so
+*.pdb
+.DS_Store
