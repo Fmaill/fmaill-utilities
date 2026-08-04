@@ -1,0 +1,13 @@
+build/
+.cache/
+.vscode/
+.idea/
+*.geode
+*.dll
+*.dylib
+*.so
+*.pdb
+.DS_Store
+build-tests/
+cmake-test-build/
+tests/stubs/
